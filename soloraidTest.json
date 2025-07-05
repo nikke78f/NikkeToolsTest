@@ -17882,7 +17882,7 @@
   { "id": 26
     ,"yyyymm": "2025/06"
     ,"basedate": "2025/7/05"
-    ,"holding": false
+    ,"holding": true
     ,"check": false
     ,"name": "プロビデンス"
     ,"name_s": "プロビデンス"
