@@ -23814,7 +23814,7 @@
   { "id": 30
     ,"yyyymm": "2025/11"
     ,"basedate": "2025/11/15"
-    ,"holding": false
+    ,"holding": true
     ,"check": false
     ,"name": "クイーン001"
     ,"name_s": "クイーン001"
