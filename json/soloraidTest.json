@@ -26856,5 +26856,26 @@
 ,{ "datetime": "1900-01-06 05:28:52", "days": 6, "rank": 38.86, "score": 0 }
 
     ]
+  },
+  { "id": 33
+    ,"yyyymm": "2026/01"
+    ,"basedate": "2026/01/10"
+    ,"select": "001"
+    ,"holding": true
+    ,"check": false
+    ,"name": "オンリーワン"
+    ,"name_s": "オンリーワン"
+    ,"icon": "オンリーワン"
+    ,"weakPoint": "水冷"
+    ,"dataList": 
+[
+ { "datetime": "1900-01-02 02:01:16", "days": 1, "rank": 0, "score": 29319 }
+,{ "datetime": "1900-01-01 10:07:34", "days": 1, "rank": 0, "score": 27737 }
+,{ "datetime": "1900-01-01 20:01:10", "days": 1, "rank": 0.01, "score": 26289 }
+,{ "datetime": "1900-01-01 21:48:48", "days": 1, "rank": 0.01, "score": 26229 }
+,{ "datetime": "1900-01-02 02:16:14", "days": 1, "rank": 0.02, "score": 25718 }
+,{ "datetime": "1900-01-01 23:54:33", "days": 1, "rank": 0.02, "score": 24889 }
+
+    ]
   }
 ]
