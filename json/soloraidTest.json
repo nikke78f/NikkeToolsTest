@@ -29662,7 +29662,7 @@
     ,"yyyymm": "2026/03"
     ,"basedate": "2026/03/22"
     ,"select": "001"
-    ,"holding": false
+    ,"holding": true
     ,"check": false
     ,"name": "クリスタルチャンバー"
     ,"name_s": "クリスタルチャンバー"
