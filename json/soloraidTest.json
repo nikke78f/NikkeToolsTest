@@ -30618,7 +30618,7 @@
   ]
   },
   { "id": 36
-    ,"yyyymm": "2026/05"
+    ,"yyyymm": "2026/04"
     ,"basedate": "2026/05/02"
     ,"select": "001"
     ,"holding": false
@@ -32008,9 +32008,9 @@
     ]
   },
   { "id": 37
-    ,"yyyymm": "2026/05-02"
+    ,"yyyymm": "2026/05"
     ,"basedate": "2026/05/30"
-    ,"select": "001"
+    ,"select": "002"
     ,"holding": true
     ,"check": false
     ,"name": "ウルトラ"
