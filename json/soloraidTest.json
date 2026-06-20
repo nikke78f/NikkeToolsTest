@@ -33626,7 +33626,7 @@
     ,"yyyymm": "2026/06"
     ,"basedate": "2026/06/20"
     ,"select": "001"
-    ,"holding": false
+    ,"holding": true
     ,"check": false
     ,"name": "アニヒリオ"
     ,"name_s": "アニヒリオ"
