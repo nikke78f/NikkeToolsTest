@@ -38228,11 +38228,11 @@
 
     ]
   },
-  { "id": 41
+  { "id": 42
     ,"yyyymm": "2026/10"
     ,"basedate": "2026/10/17"
     ,"select": "001"
-    ,"holding": false
+    ,"holding": true
     ,"check": false
     ,"name": "アルトルイア"
     ,"name_s": "アルトルイア"
